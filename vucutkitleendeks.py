@@ -16,4 +16,4 @@ try:
         print(f"Vücut Kitle Endeksiniz : {vucutkitleEndeks}, Ciddi Obezsiniz!")
 
 except ZeroDivisionError:
-    print("Düzgün Yaz Amına Korum Orosbu Çocuğu!")
+    print("Lütfen Girilen Bilgileri Kontrol Edin!")
